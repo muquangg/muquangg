@@ -1,7 +1,7 @@
 ### Tkinter Example
 
-#### for what?
+#### 1. for what?
 1. a simple function to show hello
 
-#### for usage
+#### 2. for usage
 1. python main.py
