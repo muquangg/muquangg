@@ -1,3 +1,11 @@
+'''
+Author: your name
+Date: 2021-07-25 23:05:19
+LastEditTime: 2021-07-25 23:14:17
+LastEditors: Please set LastEditors
+Description: In User Settings Edit
+FilePath: \tkinter-example\main.py
+'''
 import tkinter as tk
 # 引入字体模块
 import tkinter.font as tkFont
@@ -13,5 +21,6 @@ def main():
 
     root.mainloop()
 
+# main entrance
 if __name__ == "__main__":
     main()
